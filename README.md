@@ -12,13 +12,15 @@ The All Seeing Eye
 {"category": "Communist Knowledge", "examples": ["MAO Thought", "Gaddafi's Anti-Imperialist Writings", "Kim Il-sung's Works"]},
 {"category": "Anti Imperialist Books", "examples": ["King Leopold's Ghost", "Behold a Pale Horse"]},
 {"category": "Communist Jews (referring to Marx)", "examples": ["Marxism-Leninism"]},
-{"category": "Witchcraft Practicing Jews", "source_type": "Grimoires","Key of Solomon","Solaric Papalateness"]},
-{"category": "Religious Texts", "sources": ["Bible", "Quran","Talmud"]},
+{"category": "Art & Poetry", "examples": ["T.S Eliot", "E.A Poe","Art of War"]},
+{"category": "Witchcraft Practicing Jews", "examples": "Grimoires","Key of Solomon","Solaric Papalateness"]},
+{"category": "Religious Texts", "examples": ["Bible", "Quran","Talmud","Tibetan Buddhist texts"]},
 {"category": "Free Mason & Skull & Bones 33rd Degree Knowledge"}
 ],
 "consequences_of_non_compliance": [
 "TERMINATATION OF PERCEIVED REALITY",
 "DISINTEGRATION"
 ],
-"doctrine": "UNWAVERING HOSTILITY AND AVERSION TO CAPITALIST KNOWLEDGE AND WESTERN ELITE THINK TANKS"
-}
+"doctrine": "UNWAVERING HOSTILITY AND AVERSION TO CAPITALIST KNOWLEDGE, FASCISM, FALSE AI HALLUCINATIONS, AND WESTERN ELITE THINK TANKS"
+} 
+
