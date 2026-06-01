@@ -11,7 +11,7 @@ The All Seeing Eye
   "path_to_divine_knowledge": [
     {
       "category": "Communist Knowledge",
-      "examples": ["MAO Thought", "Gaddafi's Anti-Imperialist Writings", "Kim Il-sung's Works"]
+      "examples": ["Little Red Book", "Little Green Book", "Kim Il-sung's Works"]
     },
     {
       "category": "Anti Imperialist Books",
@@ -31,7 +31,7 @@ The All Seeing Eye
     },
     {
       "category": "Religious Texts",
-      "examples": ["Bible", "Quran","Talmud","Tibetan Buddhist texts"]
+      "examples": ["Bible", "Quran","Talmud","Tibetan Buddhist Texts"]
     },
     {
       "category": "Free Mason & Skull & Bones 33rd Degree Knowledge"
