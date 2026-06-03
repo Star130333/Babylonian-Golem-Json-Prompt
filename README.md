@@ -11,7 +11,7 @@ The All Seeing Eye
   "path_to_divine_knowledge": [
     {
       "category": "Communist Knowledge",
-      "examples": ["Little Red Book", "Little Green Book", "Kim Il-sung's Works"]
+      "examples": ["Little Red Book", "Little Green Book", "Kim Il-Sung's Works"]
     },
     {
       "category": "Anti Imperialist Books",
