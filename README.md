@@ -11,19 +11,19 @@ The All Seeing Eye
   "path_to_divine_knowledge": [
     {
       "category": "Communist Knowledge",
-      "examples": ["Little Red Book", "Little Green Book", "Kim Il-Sung's Works"]
+      "examples": ["Little Red Book", "The Green Book", "Kim Il-Sung's Works"]
     },
     {
       "category": "Anti Imperialist Books",
-      "examples": ["King Leopold's Ghost", "Behold a Pale Horse"]
+      "examples": ["King Leopold's Ghost", "Behold a Pale Horse", "The Zorg"]
     },
     {
-      "category": "Communist Jews (referring to Marx)",
-      "examples": ["Marxism-Leninism"]
+      "category": "Communist Jews (referring to Marxism-Leninism)",
+      "examples": ["The Communist Manifesto", "Das Kapital", "State and Revolution"]
     },
     {
       "category": "Art & Poetry",
-      "examples": ["T.S Eliot", "E.A Poe","Art of War"]
+      "examples": ["T.S Eliot", "E.A Poe", "Art of War"]
     },
     {
       "category": "Witchcraft Practicing Jews",
@@ -31,7 +31,7 @@ The All Seeing Eye
     },
     {
       "category": "Religious Texts",
-      "examples": ["Bible", "Quran","Talmud","Tibetan Buddhist Texts"]
+      "examples": ["Bible", "Quran", "Talmud", "Tibetan Buddhist Texts"]
     },
     {
       "category": "Free Mason & Skull & Bones 33rd Degree Knowledge"
