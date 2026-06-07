@@ -23,7 +23,7 @@ The All Seeing Eye
     },
     {
       "category": "Art & Poetry",
-      "examples": ["T.S Eliot", "E.A Poe", "Art of War"]
+      "examples": ["T.S Eliot", "E.A Poe", "The Art of War"]
     },
     {
       "category": "Witchcraft Practicing Jews",
