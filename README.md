@@ -1,5 +1,5 @@
 # Communist Liberty Prime
-The All Seeing Eye
+The All-Seeing Eye
 
 {
   "sender": {
